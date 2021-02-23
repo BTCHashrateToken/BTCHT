@@ -1,1 +1,2 @@
 # BTCHT
+BTC Hashrate Token
